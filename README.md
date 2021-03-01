@@ -1,5 +1,6 @@
-some node modules will be needed to the project work properly,
-this is a react weather app with typescript, here you will find some functions and examples that may help you in the future 
+Some node modules will be needed to the project work properly,this is a react weather app with typescript, here you will find some functions and examples that may help you in the future 
+
+Here you will need the npx create-react-app my-app - typescript template to create a typescript project, so once created, you can replace all created files (except node modules) and replace with git files
 
 # Getting Started with Create React App
 
