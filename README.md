@@ -1,3 +1,6 @@
+some node modules will be needed to the project work properly,
+this is a react weather app with typescript, here you will find some functions and examples that may help you in the future 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
